@@ -1,7 +1,7 @@
 #!/bin/python3
 
 
-import sys  #Enabling you to enter new  line
+import sys  
 import socket
 from datetime import datetime
 
