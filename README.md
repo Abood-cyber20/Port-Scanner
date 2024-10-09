@@ -5,6 +5,8 @@ To use this script, run the following command in your terminal:
 
 
 python3 scanner.py <IP_address>
+
+
 python3 scanner.py <domain_name>
 Replace <IP_address> with the target IP address you want to scan.
 
